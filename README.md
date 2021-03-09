@@ -1,6 +1,8 @@
 # ZCom
 A compiler for a Pascal-like language based on P6.
 
+THIS IS A PLACEHOLDER REPO (I'll probably move this info to a better-named repository before uploading).
+
 ## History & Objectives
 
 Pascal is a low-level programming language designed by Niklaus Wirth with a long history.
